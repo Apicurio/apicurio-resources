@@ -1,4 +1,4 @@
-# apicurio-resources
+# Apicurio Resources
 General purpose repository for storing resources useful/helpful to the various Apicurio projects.
 
 Some typical resources you might find in this repository:
